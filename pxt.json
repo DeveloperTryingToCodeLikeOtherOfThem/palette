@@ -1,5 +1,5 @@
 {
-    "name": "palette",
+    "name": "screen-palette",
     "description": "",
     "dependencies": {
         "device": "*"
